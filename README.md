@@ -230,7 +230,7 @@ The program will:
 Run:
 
 ```bash
-python -m streamlit run dashboard.py
+streamlit run dashboard.py
 ```
 
 The dashboard will open at:
@@ -300,22 +300,6 @@ Direction
 Z-score
 Spread %
 ```
-
----
-
-# Future Improvements
-
-Possible future upgrades:
-
-- Historical spread tracking
-- WebSocket live streaming
-- Additional exchange integrations
-- Real-time database storage
-- Machine learning volatility prediction
-- Advanced statistical arbitrage strategies
-- Cloud deployment
-
----
 
 # Disclaimer
 
