@@ -301,8 +301,8 @@ Z-score
 Spread %
 ```
 
-# DISCLAIMER
+# Disclaimer
 
-This project is for educational and research purposes only.
+This project is for **educational and research purposes only**.
 
 It does not execute real cryptocurrency trades and should not be considered financial advice or a trading system.
