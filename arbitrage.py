@@ -1,4 +1,4 @@
-from config import TRADING_FEE, TRADE_AMOUNT
+from config import TRADING_FEE, SIMULATED_TRADE_AMOUNT
 
 def calculate_profit(buy_price, sell_price):
     if buy_price <= 0:
@@ -16,7 +16,7 @@ def calculate_profit(buy_price, sell_price):
     )
 
     gross_profit = (
-        TRADE_AMOUNT *
+        SIMULATED_TRADE_AMOUNT *
         (spread / buy_price)
     )
 
