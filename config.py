@@ -1,0 +1,11 @@
+EXCHANGE_A = "coinbase"
+EXCHANGE_B = "binance"
+
+SYMBOL = "BTC/USD"
+
+REFRESH_RATE = 1
+
+TRADING_FEE = 0.001
+TRADE_AMOUNT = 1000
+
+LOG_FILE = "logs/trades.csv"
