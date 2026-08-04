@@ -103,13 +103,18 @@ Displays:
               --------------------------------
               |                              |
               v                              v
-       Arbitrage Engine              Statistical Engine
+       Arbitrage Analysis            Statistical Analysis
               |                              |
               v                              v
         trades.csv                    events.csv
-              |
-              v
-        Streamlit Dashboard
+              |                              |
+              --------------------------------
+                              |
+                              v
+                    Streamlit Dashboard
+                  /                    \
+                 v                      v
+        Profit Opportunities      Market Anomalies
 ```
 
 ---

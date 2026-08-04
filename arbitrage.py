@@ -21,7 +21,7 @@ def calculate_profit(buy_price, sell_price):
     )
 
     fees = (
-        TRADE_AMOUNT *
+        SIMULATED_TRADE_AMOUNT *
         TRADING_FEE *
         2
     )
