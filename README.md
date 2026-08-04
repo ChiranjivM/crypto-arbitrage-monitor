@@ -301,7 +301,7 @@ Z-score
 Spread %
 ```
 
-# Disclaimer
+# DISCLAIMER
 
 This project is for educational and research purposes only.
 
